@@ -47,7 +47,7 @@ title: 仪表盘
 
 ### Accent colors 辅助色
 
-> 默认为 `red` 
+> 默认为 `pink` 
 
 更换主题的辅助色
 
