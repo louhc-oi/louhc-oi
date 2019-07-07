@@ -1,12 +1,9 @@
 ---
-disqus:
-pagetime:
 title: Main Page
+pagetime: 2019-07-07 13:42:37
 ---
 
-# Main Page
-
-## Hello,I am louch!
+# Hello, I am louhc
 
 我的博文主要发表在 [louhc.github.io](https://louhc.github.io)
 

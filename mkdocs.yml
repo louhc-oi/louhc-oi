@@ -1,20 +1,17 @@
 # Project Information
-site_name: Hello,I am louhc
-site_description: louhc的第二个博客qwq
+site_name: Hello, I am louhc
+site_description: louhc's blog
 site_author: louhc
 site_url: https://louhc-oi.github.io
 strict: true
 
 # Repository
-repo_name: 'louhc-oi/louhc-oi.github.io'
-repo_url: 'https://github.com/louhc-oi/louhc-oi.github.io'
+repo_name: 'louhc-oi/louhc-oi'
+repo_url: 'https://github.com/louhc-oi/louhc-oi'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
 copyright: 'none'
-
-# Contents
-nav:
 
 # Theme
 theme:
@@ -39,10 +36,10 @@ theme:
 extra:
   search:
     language: 'jp'
-  disqus: 
-  copyright: 
+  disqus: 'louhc'
+  copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
   pagetime: 'on'
-  manifest: 
+  manifest: 'manifest.webmanifest'
   githash: ''
 
 extra_javascript:
