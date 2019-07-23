@@ -21,6 +21,7 @@ nav:
     - miku: miku/index.md
   - 学习:
     - 学习: learn/index.md
+    - 康托展开: learn/cantor-expansion/index.md
   - 黑科技:
     - 写在前面: black-tech/index.md
     - miku tools: black-tech/miku-tools/index.md
